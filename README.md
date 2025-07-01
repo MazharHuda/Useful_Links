@@ -24,3 +24,12 @@ https://lnkd.in/dhpNEE63
 Project 5: End-to-end monitoring an app using Prometheus and Grafana.
 
 https://lnkd.in/d9tfAW3c
+
+
+
+1️⃣ developers.aws
+2️⃣ workshops.aws
+3️⃣ skillbuilder.aws
+4️⃣ Google Cloud Codelabs: https://lnkd.in/dcYtB6Jk
+5️⃣ Google Cloud Skills Boost : https://lnkd.in/d6PF-MdF
+6️⃣ Microsoft Learn: https://lnkd.in/dq8-DCt6
