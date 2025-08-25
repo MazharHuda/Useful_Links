@@ -1,4 +1,33 @@
 # Useful_Links
+If I were starting DevOps from scratch — here are 4 projects I wouldn’t miss
+(beginner → AI-based advanced)
+
+1. CI/CD Pipeline with Docker & GitHub Actions (Beginner)
+Set up a pipeline to automatically build, test, and deploy a containerized app.
+↳ Tools: Git, Docker, K8s, GitHub Actions
+↳ Youtube: https://lnkd.in/drS5DKXz
+
+2. Kubernetes Deployment with Monitoring (Intermediate)
+Deploy a sample app to Kubernetes and set up Prometheus + Grafana dashboards.
+↳ Tools: Kubernetes, Helm, Prometheus, Grafana
+↳ Youtube: https://lnkd.in/dsjiwJ_d
+
+3. Infrastructure as Code with Terraform (Advanced)
+Provision VMs, storage, and networking on a cloud provider using IaC.
+↳ Tools: Terraform, Azure
+↳ Youtube: https://lnkd.in/ds_Y5xhn
+
+4. AI-Driven Predictive Scaling (Next-Gen)
+Use KEDA + ML models to autoscale workloads before spikes occur.
+↳ Tools: Kubernetes, KEDA, Python (forecasting models)
+↳ GitHub: https://lnkd.in/d5C5ie8V
+
+With AI taking center stage, DevOps is no longer just about CI/CD pipelines.
+
+
+
+
+
 Devops/Clouds
 
 ✡️ https://lnkd.in/gjDYmueY
