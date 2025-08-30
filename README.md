@@ -1,4 +1,30 @@
 # Useful_Links
+HCL DevOps Interview Questions – Real Scenarios You Must Prepare For
+
+1. Technical Round (45–60 mins)
+Expect real-world scenario-based questions across CI/CD, Cloud, Kubernetes, Terraform, and DevOps best practices:
+1️⃣ Explain your CI/CD pipeline design. Which tools did you use and why?
+2️⃣ Jenkins multi-environment deployment (dev/stage/prod) – how would you do it?
+3️⃣ Jenkins pipeline failures → Debugging & real-time fix examples.
+4️⃣ Dockerfile best practices → Production-ready approach.
+5️⃣ Kubernetes rolling updates using YAML → Steps and concepts.
+6️⃣ Terraform backend & remote state with locking → Why & how.
+7️⃣ Secrets management → AWS Secrets Manager / Azure Key Vault.
+8️⃣ Git branching strategies → Gitflow in real projects.
+9️⃣ Logging & Monitoring setup → Tools and approach.
+🔟 DevSecOps → Any real-time implementation you’ve done.
+
+2. HR Round (10–15 mins)
+Covers:
+1️⃣ Career journey & motivations
+2️⃣ Flexibility (shifts, relocation, hybrid)
+3️⃣ CTC, notice period, and career aspirations
+4️⃣ Experience with global teams & client roles
+
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+
+
 If I were starting DevOps from scratch — here are 4 projects I wouldn’t miss
 (beginner → AI-based advanced)
 
